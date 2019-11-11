@@ -1,0 +1,11 @@
+
+## Interface: 11302
+## Title: Auc:Stat:BootyBayGazette
+## Notes: An Auctioneer statistics module for Booty Bay Gazette.
+## Author: Odjur
+## Version: 1.13.2.1
+## DefaultState: enabled
+## Dependencies: Auc-Advanced, BootyBayGazette
+
+Auc-Stat-BootyBayGazette.lua
+Localization.lua
